@@ -1,0 +1,31 @@
+.Task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    background-color: #fff;
+    font-size: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.Task_info{
+    display: flex;
+}
+
+.Task_input{
+    cursor: pointer;
+    font-size: 30px;
+    border: 1px solid #000;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.Task_label{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+

@@ -1,0 +1,19 @@
+.Nav{
+    background-color: darkblue;
+}
+
+.Nav ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.Nav li{
+    margin-right: 100px;
+}
+
+.Nav a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}

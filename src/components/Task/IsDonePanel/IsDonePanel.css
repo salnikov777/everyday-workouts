@@ -1,0 +1,10 @@
+.IsDonePanel{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.IsDonePanel img{
+    height: 50px;
+}

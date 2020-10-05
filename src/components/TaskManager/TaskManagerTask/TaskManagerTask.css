@@ -1,0 +1,41 @@
+.TaskManagerTask{
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaskManagerTask_kind{
+    width: 100px;
+    font-size: 20px;
+    border: 1px solid #000;
+}
+
+.TaskManagerTask input{
+    color: #000;
+    font-size: 20px;
+    border: 1px solid #000;
+    padding: 5px;
+
+}
+
+.TaskManagerTask_title{
+    width: 40%;
+}
+
+.TaskManagerTask_countExercise{
+    width: 50px;
+}
+
+.TaskManagerTask_closetask{
+    width: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("/img/close.png");
+    background-size: contain;
+
+    cursor: pointer;
+}
